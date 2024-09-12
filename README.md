@@ -11,7 +11,7 @@ Before getting into designing the ETL pipeline, lets us understand the problem s
 <br>
 Dataset source - https://www.kaggle.com/datasets/sparnord/danish-atm-transactions
 <br>
-**ETL Architecture:**
-![Screenshot 2024-09-13 005645](https://github.com/user-attachments/assets/6d36e719-41bd-4adf-9dcd-d9cf3593b6e8)
-
+**ETL Architecture:**<br>
+![Screenshot 2024-09-13 005645](https://github.com/user-attachments/assets/ae34e262-b168-4e91-9cde-e96a01348624)
+<br>
 Thanks!
